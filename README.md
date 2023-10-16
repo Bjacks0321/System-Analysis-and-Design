@@ -1,3 +1,6 @@
+Brittney Jackson
+CS 255
+
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
 What did you do particularly well?
