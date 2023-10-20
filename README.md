@@ -5,7 +5,7 @@
 The client for the DriverPass project was Liam, the owner of DriverPass, a company aiming to enhance driver training for individuals preparing for their driving tests at local Departments of Motor Vehicles (DMV). The client wanted to design a comprehensive system that would provide online lessons and practice tests, manage on-the-road training reservations, track user activities, and ensure compliance with DMV standards.
 
 # What did you do particularly well?
-I feel like a did the businees requirement document praticulary well with
+I created a well-structured documentation and attention to detail make the business requirements document a particularly strong foundation for the ensuing system design process. By providing a comprehensive and clear overview of the client's needs and system objectives, ensuring a shared understanding of the project's scope. 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
  If I were to revise one aspect, I would further elaborate on the relationships between classes and the multiplicity of associations to provide a more detailed view of how classes interact within the system.
  
